@@ -4,7 +4,7 @@
   "description": "Bot do WhatsApp usando whatsapp-web.js",
   "main": "bot.js",
   "scripts": {
-    "start": "node.js"
+    "start": "chatbot.js"
   },
   "dependencies": {
     "qrcode-terminal": "^0.12.0",
